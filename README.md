@@ -1,24 +1,17 @@
-# README
+# Application Cable Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby 2.7.2
 
-Things you may want to cover:
+* Rails 6.1.0
 
-* Ruby version
+* Sqlite3 Database
 
-* System dependencies
+* Setting up the project
 
-* Configuration
+  * `$git clone repo`
+  * `$cd repo`
+  * `$bundle install`
+  * `$rails db:create`
+  * `$rails s`
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
